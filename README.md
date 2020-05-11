@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To-do List using React!
+## To-do List using React & Redux!
 
 Here we have a nice ToDo application using React..
 
