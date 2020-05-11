@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To-do List using React!
 
-Here we have a nice ToDo application using React.
+Here we have a nice ToDo application using React..
 
 ### `npm start`
 
