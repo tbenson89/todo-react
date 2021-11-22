@@ -1,8 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## To-do List using React & Redux!
+# To-do List using React & Redux!
 
 Here we have a nice ToDo application using React..
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm start`
 
@@ -12,6 +13,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+
+### Important
+- Add what the project is fully about 
+- what you still need to do 
+- what the plan of the project is 
+- use cases of the project 
+- dead/alive? 
+
+
+## Generated Readme data!
+
+-------------------------------------------------------------------------------------------------------------------------------------
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
